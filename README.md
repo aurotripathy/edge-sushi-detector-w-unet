@@ -4,8 +4,8 @@ This repo captures all of my steps to segment sushi in images.
 
 At a very high-level in includes the following steps:
 * image collection and annotation
-* model training and conversion saving in the ONNX format
-* model optimization w/OpenVino's model optimizer
+* model training and saving in the ONNX format
+* post-training model optimization w/OpenVino's model optimizer
 * conversion to intermediate repesentations (IR and blobs)
 * getting the model into the model store
 * getting inferencing setup on Percept DK
