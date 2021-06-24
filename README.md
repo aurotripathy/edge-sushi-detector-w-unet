@@ -16,7 +16,7 @@ I did the training step locally on my machine (with a Nvidia 2080 card) instead 
 
 To get a feel for the demo, [watch a 30-second clip](https://www.youtube.com/watch?v=2mIZ-Qxhjr8).
 
-#### Setup below (mimicking a sushi production line). 
+#### Setup below (mimicking a sushi production line where we're counting and sizing sushi). 
 ![setup](/assets/IMG_1090-cropped.JPG)
 
 ### Training Dataset
