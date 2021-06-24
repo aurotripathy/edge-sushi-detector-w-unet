@@ -6,6 +6,14 @@ To get a sense of how the demo works, [watch a 30-second clip](https://www.youtu
 ![setup](/assets/IMG_1090-cropped.JPG)
 
 #### Training Dataset
-I use just a handful of images for training and they are all in the  [training dataset](/resized_images/) folder
+My initial training dataset size 25 images images and they are all in the  [training dataset](/resized_images/) folder.
+For increasingly better segmenation, you can cartainly up the image count. 
 
-Documentation coming...
+Below is a sample image.
+<img src="/resized_images/IMG_1052-size_818_616.jpg" alt="sample image" width="400"/>
+
+You'll find all the masks in the [](/resized_masks) folder.
+<img src="/resized_masks/IMG_1052-size_818_616.jpg" alt="sample mask" width="400"/>
+
+
+More documentation coming...
