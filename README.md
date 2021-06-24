@@ -21,7 +21,7 @@ To get a feel for the demo, [watch a 30-second clip](https://www.youtube.com/wat
 
 ### Training Dataset
 My initial training dataset size was 25 images and they are all in the  [training dataset](/resized_images/) folder.
-For increasingly better segmenation, you can cartainly add more images. 
+For increasingly better segmenation, you can certainly add more images and their corresponding masks. 
 
 Below is a sample image.
 
