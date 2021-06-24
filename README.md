@@ -1,6 +1,18 @@
 ## Detecting sushi at the edge with Percept Device Kit (DK)
 
-To get a sense of how the demo works, [watch a 30-second clip](https://www.youtube.com/watch?v=2mIZ-Qxhjr8).
+This repo captures all of my steps to segment sushi in images. At a very high-level in inclides:
+* image collection and annotation
+* model training and conversion saving in the ONNX format
+* model optimization w/OpenVino's model optimizer
+* conversion to intermediate repesentations (IR and blobs)
+* getting the model into the model store
+* getting inferencing setup on Percept DK
+
+Much of the recipe is from [Azure Percept training notebook](https://github.com/microsoft/azure-percept-advanced-development/blob/main/machine-learning-notebooks/train-from-scratch/SemanticSegmentationUNet.ipynb). 
+
+I did the training step locally on my machine (with a Nvidia 2080 card) instead of the cloud.
+
+To get a feel for the demo, [watch a 30-second clip](https://www.youtube.com/watch?v=2mIZ-Qxhjr8).
 
 #### Setup below (mimicking a sushi production line). 
 ![setup](/assets/IMG_1090-cropped.JPG)
