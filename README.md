@@ -10,11 +10,13 @@ My initial training dataset size 25 images images and they are all in the  [trai
 For increasingly better segmenation, you can cartainly up the image count. 
 
 Below is a sample image.
+
 <img src="/resized_images/IMG_1052-size_818_616.jpg" alt="sample image" width="400"/>
 
 You'll find all the masks in the [masks for training dataset](/resized_masks/) folder.
 
 Below is a sample mask.
+
 <img src="/resized_masks/IMG_1052-size_818_616.png" alt="sample mask" width="400"/>
 
 
