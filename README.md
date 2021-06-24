@@ -1,6 +1,8 @@
 ## Detecting sushi at the edge with Percept Device Kit (DK)
 
-This repo captures all of my steps to segment sushi in images. At a very high-level in inclides:
+This repo captures all of my steps to segment sushi in images. 
+
+At a very high-level in includes the following steps:
 * image collection and annotation
 * model training and conversion saving in the ONNX format
 * model optimization w/OpenVino's model optimizer
