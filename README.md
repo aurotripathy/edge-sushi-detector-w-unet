@@ -6,8 +6,6 @@ To get a sense of how the demo works, [watch a 30-second clip](https://www.youtu
 ![setup](/assets/IMG_1090-cropped.JPG)
 
 #### Training Dataset
-I use just a handful of images and they are all at 
-
-![training dataset](/resized_images)
+I use just a handful of images for training and they are all in the  [training dataset](/resized_images/) folder
 
 Documentation coming...
