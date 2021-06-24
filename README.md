@@ -7,7 +7,7 @@ At a very high-level in includes the following steps:
 * model training and saving in the ONNX format
 * post-training model optimization w/OpenVino's model optimizer
 * conversion to intermediate repesentations (IR and blobs)
-* getting the model into the model store
+* getting the model into the Azure model store
 * getting inferencing setup on Percept DK
 
 Much of the recipe is from [Azure Percept training notebook](https://github.com/microsoft/azure-percept-advanced-development/blob/main/machine-learning-notebooks/train-from-scratch/SemanticSegmentationUNet.ipynb). 
