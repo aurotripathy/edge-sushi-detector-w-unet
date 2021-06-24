@@ -6,8 +6,8 @@ To get a sense of how the demo works, [watch a 30-second clip](https://www.youtu
 ![setup](/assets/IMG_1090-cropped.JPG)
 
 ### Training Dataset
-My initial training dataset size 25 images images and they are all in the  [training dataset](/resized_images/) folder.
-For increasingly better segmenation, you can cartainly up the image count. 
+My initial training dataset size was 25 images and they are all in the  [training dataset](/resized_images/) folder.
+For increasingly better segmenation, you can cartainly add more images. 
 
 Below is a sample image.
 
