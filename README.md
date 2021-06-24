@@ -18,6 +18,7 @@ To get a feel for the demo, [watch a 30-second clip](https://www.youtube.com/wat
 
 #### Setup 
 Below is a picture of the setup. (mimicking a sushi production line where we're counting and sizing sushi). 
+
 ![setup](/assets/IMG_1090-cropped.JPG)
 
 ### Training Dataset
