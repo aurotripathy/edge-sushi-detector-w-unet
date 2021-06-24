@@ -10,7 +10,7 @@ This repo captures all of my steps to segment sushi in images. At a very high-le
 
 Much of the recipe is from [Azure Percept training notebook](https://github.com/microsoft/azure-percept-advanced-development/blob/main/machine-learning-notebooks/train-from-scratch/SemanticSegmentationUNet.ipynb). 
 
-I did the training step locally on my machine (with a Nvidia 2080 card) instead of the cloud.
+I did the training step locally on my machine (with a Nvidia 2080 card) instead of Azure ML.
 
 To get a feel for the demo, [watch a 30-second clip](https://www.youtube.com/watch?v=2mIZ-Qxhjr8).
 
